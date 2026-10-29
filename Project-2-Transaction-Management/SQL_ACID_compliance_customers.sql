@@ -1,11 +1,12 @@
 -- =========================================================================
 -- PROJECT: TechHealthDb Transaction Management & Data Insertion
--- LAB MODULE: Part 2 - Revenue & Sales Tracking
--- DESCRIPTION: Tracks volume-based subscription purchases while enforcing 
---              data integrity via @@ROWCOUNT evaluations.
+-- LAB MODULE: Part 1 - Customer Demographics Ingestion
+-- DESCRIPTION: Implements explicit transactions and named savepoints 
+--              to safely ingest global multi-tiered customer profiles.
 -- AUTHOR: Julio C.
 -- DATE: October 2026
 -- =========================================================================
+
 
 USE TechHealthDb;
 GO
