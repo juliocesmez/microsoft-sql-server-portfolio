@@ -5,7 +5,7 @@ This repository consolidates the production-grade laboratory work and business i
 ## 📜 Verified Credential
 * **Credential Issuer:** Microsoft
 * **Learning Infrastructure Platform:** Coursera
-* **Official Verification:** [Click here to view my verified certification status]([PASTE_YOUR_COURSERA_LINK_HERE](https://www.coursera.org/account/accomplishments/verify/5SF3XVKHZ3J2))
+* **Official Verification:** [Click here to view my verified certification status]([[PASTE_YOUR_COURSERA_LINK_HERE](https://www.coursera.org/account/accomplishments/verify/5SF3XVKHZ3J2)])
 
 ---
 
