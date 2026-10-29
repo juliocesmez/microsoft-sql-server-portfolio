@@ -7,7 +7,7 @@ This repository consolidates the production-grade laboratory work and business i
 * **Learning Infrastructure Platform:** Coursera
 * **Official Verification:**
   * **SQL Foundations (Microsoft)** — [Official Verification](https://www.coursera.org/account/accomplishments/verify/KFT6VEVFKL3O)
-* **Data Manipulation and Transactions in SQL Server (Microsoft)** — [Official Verification](https://www.coursera.org/account/accomplishments/verify/5SF3XVKHZ3J2)
+  * **Data Manipulation and Transactions in SQL Server (Microsoft)** — [Official Verification](https://www.coursera.org/account/accomplishments/verify/5SF3XVKHZ3J2)
 
 ---
 
