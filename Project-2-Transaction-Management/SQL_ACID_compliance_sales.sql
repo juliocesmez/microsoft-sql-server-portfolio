@@ -1,3 +1,12 @@
+-- =========================================================================
+-- PROJECT: TechHealthDb Transaction Management & Data Insertion
+-- LAB MODULE: Part 2 - Revenue & Sales Tracking
+-- DESCRIPTION: Tracks volume-based subscription purchases while enforcing 
+--              data integrity via @@ROWCOUNT evaluations.
+-- AUTHOR: Julio C.
+-- DATE: October 2026
+-- =========================================================================
+
 USE TechHealthDb;
 GO
 
