@@ -2,10 +2,12 @@
 
 This repository consolidates the production-grade laboratory work and business intelligence pipelines completed for the **SQL Server Fundamentals** & **Data Manipulation and Transactions in SQL Server** certification curriculum by Microsoft.
 
-## 📜 Verified Credential
+## 📜 Verified Credentials
 * **Credential Issuer:** Microsoft
 * **Learning Infrastructure Platform:** Coursera
-* **Official Verification:** [Click here to view my verified certification status]([[PASTE_YOUR_COURSERA_LINK_HERE](https://www.coursera.org/account/accomplishments/verify/5SF3XVKHZ3J2)])
+* **Official Verification:**
+  * **SQL Foundations (Microsoft)** — [Official Verification](https://www.coursera.org/account/accomplishments/verify/KFT6VEVFKL3O)
+* **Data Manipulation and Transactions in SQL Server (Microsoft)** — [Official Verification](https://www.coursera.org/account/accomplishments/verify/5SF3XVKHZ3J2)
 
 ---
 
