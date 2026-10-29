@@ -22,6 +22,7 @@ LICENSE (Open-Source Asset Protection)
 
 -- Project-2-Transaction-Management/  
       01_customer_inserts.sql (Demographic transaction script)
+      
       02_sales_inserts.sql (Revenue logging transaction script)
 ```
 
