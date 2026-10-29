@@ -18,12 +18,15 @@ master_README.md (Root Master Dashboard)
 LICENSE (Open-Source Asset Protection)
 
 -- Project-1-Invoicing-Analysis/  
-      proj1_clear_queries.sql (Analytical script files)
+proj1_clear_queries.sql (Analytical script files)
 
 -- Project-2-Transaction-Management/  
-      01_customer_inserts.sql (Demographic transaction script)
+01_customer_inserts.sql (Demographic transaction script)
+
+02_sales_inserts.sql (Revenue logging transaction script)
+
+
       
-      02_sales_inserts.sql (Revenue logging transaction script)
 ```
 
 ---
