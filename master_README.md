@@ -14,6 +14,7 @@ This repository consolidates the production-grade laboratory work and business i
 - microsoft-sql-server-portfolio
 
 master_README.md (Root Master Dashboard)
+
 LICENSE (Open-Source Asset Protection)
 
 -- Project-1-Invoicing-Analysis/  
