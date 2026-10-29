@@ -11,14 +11,14 @@ This repository consolidates the production-grade laboratory work and business i
 
 ## 📂 Portfolio Directory Mapping
 
---- microsoft-sql-server-portfolio
+- microsoft-sql-server-portfolio
 master_README.md (Root Master Dashboard)
- LICENSE (Open-Source Asset Protection)
+LICENSE (Open-Source Asset Protection)
 
-- Project-1-Invoicing-Analysis/  
+-- Project-1-Invoicing-Analysis/  
       proj1_clear_queries.sql (Analytical script files)
 
-- Project-2-Transaction-Management/  
+-- Project-2-Transaction-Management/  
       01_customer_inserts.sql (Demographic transaction script)
       02_sales_inserts.sql (Revenue logging transaction script)
 ```
